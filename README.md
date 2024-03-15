@@ -1,6 +1,6 @@
 <header>
 
-:shipit:
+:shipit:   🇦🇸
 
 <!--
   <<< Author notes: Course header >>>
